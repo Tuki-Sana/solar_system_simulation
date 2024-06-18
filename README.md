@@ -1,0 +1,2 @@
+# solar_system_simulation
+Rustで太陽系惑星の公転運動のシミュレーションコードを作成しました。
