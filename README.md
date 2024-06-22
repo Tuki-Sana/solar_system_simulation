@@ -7,4 +7,5 @@ speed-Change
 zoom-Change
 (zoom-in -- push '←' button. zoom-out -- push '→' button.)
 
-
+starting command
+cargo run
