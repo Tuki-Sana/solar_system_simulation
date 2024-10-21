@@ -1,0 +1,14 @@
+# ログファイル
+*.log
+
+# ビルドファイル
+target/
+
+# デバッグファイル
+.vscode/
+
+# 設定ファイル
+*.env
+
+# Cargo.lockファイル
+/Cargo.lock
