@@ -6,3 +6,7 @@ edition = "2021"
 [dependencies]
 nalgebra = "0.29.0" # 数学ライブラリ
 nannou = "0.16"     # グラフィック表示
+
+[[bin]]
+name = "solar_system_simulation"
+path = "src/main.rs"
